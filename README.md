@@ -17,10 +17,6 @@
 | **AI Applications** | Spring AI、智能体、工具调用与知识检索 |
 | **Build & Learn** | 在项目中验证想法，用代码与笔记沉淀经验 |
 
-### 这个主页
-
-记录后端开发与 AI 应用的学习路径。下方置顶的是我关注的开源项目 **Fork**，用于学习与参考，原作归属各上游作者。
-
 ---
 
 <sub>保持好奇，持续构建。 · Stay curious. Keep building.</sub>
