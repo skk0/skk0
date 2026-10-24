@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+  <title id="title">Murphy — Java Backend and AI Applications</title>
+  <desc id="desc">A dark engineering blueprint with orange accents. Build with intent. Keep it simple.</desc>
+  <defs>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#263244" stroke-width="1"/></pattern>
+  </defs>
+  <rect width="1200" height="300" rx="16" fill="#111923"/>
+  <rect width="1200" height="300" rx="16" fill="url(#grid)"/>
+  <path d="M48 42H80M48 42V74M1152 258H1120M1152 258V226" fill="none" stroke="#EF8354" stroke-width="2"/>
+  <rect x="70" y="62" width="28" height="4" fill="#EF8354"/>
+  <text x="110" y="69" fill="#B8C4D3" font-family="monospace" font-size="15" letter-spacing="3">ENGINEERING / NOTES / EXPLORATION</text>
+  <text x="66" y="170" fill="#F5F2EB" font-family="Arial, Helvetica, sans-serif" font-weight="700" font-size="92" letter-spacing="-4">MURPHY<tspan fill="#EF8354">.</tspan></text>
+  <text x="72" y="214" fill="#D2D9E2" font-family="monospace" font-size="18">Java Backend &amp; AI Applications</text>
+  <text x="72" y="253" fill="#AAB8CA" font-family="monospace" font-size="14">Build with intent. Keep it simple.</text>
+  <g fill="none" stroke="#45576B" stroke-width="1.5">
+    <path d="M850 95H990V150H1090M850 150H940V210H1090M990 95V55H1090"/>
+    <rect x="770" y="76" width="80" height="38" rx="6" fill="#182431"/>
+    <rect x="770" y="131" width="80" height="38" rx="6" fill="#182431"/>
+    <rect x="1010" y="191" width="95" height="38" rx="6" fill="#182431"/>
+  </g>
+  <g fill="#DBE3EC" font-family="monospace" font-size="14" text-anchor="middle">
+    <text x="810" y="100">JAVA</text><text x="810" y="155">AI</text><text x="1057" y="215">SYSTEMS</text>
+  </g>
+  <g fill="#EF8354"><circle cx="1090" cy="55" r="4"/><circle cx="1090" cy="150" r="4"/><circle cx="940" cy="150" r="4"/></g>
+  <text x="1105" y="270" text-anchor="end" fill="#AAB8CA" font-family="monospace" font-size="12" letter-spacing="2">SKK0 / GITHUB</text>
+</svg>
